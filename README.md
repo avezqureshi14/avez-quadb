@@ -6,14 +6,13 @@ Welcome to the Shows Directory Web App, a project completed as part of the React
 ### Project URLs
 - **Frontend:** [View the deployed Frontend](https://avez-voxel-fullstack.netlify.app/)
 
+![s1](https://github.com/avezqureshi14/avez-quadb/assets/95353195/08652a50-d755-4652-8794-f6abe0943a1a)
 
-![s1](https://github.com/avezqureshi14/avez-voxel-full-stack-dev/assets/95353195/4e578790-bbb4-427d-9c18-be4e1f0999eb)
+![s2](https://github.com/avezqureshi14/avez-quadb/assets/95353195/d7942cd0-1927-46b7-8daf-92574b00efd6)
 
-![s2](https://github.com/avezqureshi14/avez-voxel-full-stack-dev/assets/95353195/c3536641-ebae-48ab-892f-d4a2b64fa90f)
+![s3](https://github.com/avezqureshi14/avez-quadb/assets/95353195/1a488818-203c-40ae-9c5b-06c5fc77b0c7)
 
-![s3](https://github.com/avezqureshi14/avez-voxel-full-stack-dev/assets/95353195/6be6e8fc-09ad-4210-ace0-70847f8b5687)
-
-![s4](https://github.com/avezqureshi14/avez-voxel-full-stack-dev/assets/95353195/587b3fb3-8150-4ba1-b4f7-62fab589a58a)
+![s4](https://github.com/avezqureshi14/avez-quadb/assets/95353195/a58fcd64-fe8b-452d-b051-93a2fef5c669)
 
 
 ## Additional Details
