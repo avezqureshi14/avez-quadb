@@ -4,7 +4,7 @@
 Welcome to the Shows Directory Web App, a project completed as part of the React JS  Internship assignment at QuadB Tech. This app is built using the React JS.
 
 ### Project URLs
-- **Frontend:** [View the deployed Frontend](https://avez-voxel-fullstack.netlify.app/)
+- **Frontend:** [View the deployed Frontend](https://avez-quadb.netlify.app/)
 
 ![s1](https://github.com/avezqureshi14/avez-quadb/assets/95353195/08652a50-d755-4652-8794-f6abe0943a1a)
 
@@ -23,7 +23,7 @@ Welcome to the Shows Directory Web App, a project completed as part of the React
 
 ## How to Use
 To explore the Startup Directory Web App:
-1. Visit the [Frontend URL](https://avez-voxel-fullstack.netlify.app/).
+1. Visit the [Frontend URL](https://avez-quadb.netlify.app/).
 2. Interact with the intuitive UI to explore shows, show details, and use filtering options.
 
 ## Project Structure
