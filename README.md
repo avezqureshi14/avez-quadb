@@ -28,8 +28,6 @@ To explore the Startup Directory Web App:
 
 ## Project Structure
 
-- `/server`: Contains backend code for payment processing and database management.
-  
 - `/client`: Holds the frontend code for user interface development.
 
 ## Setup Instructions
