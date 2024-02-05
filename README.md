@@ -34,7 +34,8 @@ To explore the Startup Directory Web App:
 
 1. Clone this repository.
 2. Set up by going to the `/client` directory and following the README instructions there.
-
+3. `npm i` . This will install all the dependencies
+4. `npm start run` This will start the application
 
 ## Contact Information
 For any queries or information:
