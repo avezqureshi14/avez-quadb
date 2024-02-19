@@ -1,7 +1,7 @@
 # Shows Directory Web App
 
 ## Overview
-Welcome to the Shows Directory Web App, a project completed as part of the React JS  Internship assignment at QuadB Tech. This app is built using the React JS.
+Welcome to the Shows Directory Web App. This app is built using the React JS and Tailwind CSS
 
 ### Project URLs
 - **Frontend:** [View the deployed Frontend](https://avez-quadb.netlify.app/)
